@@ -2,7 +2,7 @@
 
 ##
 
-### 👩‍💻 About Me 
+### 😁 About Me 
 
 <div>
   <ul>
