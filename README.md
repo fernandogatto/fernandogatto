@@ -28,7 +28,6 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
   
