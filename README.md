@@ -31,7 +31,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
   
-#### Backend e banco de dados
+#### Backend and database
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
