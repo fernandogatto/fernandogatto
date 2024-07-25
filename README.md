@@ -1,59 +1,19 @@
-## Hi there! I am Fernando Gatto 👋
+## Fernando Gatto 
 
-##
-
-### 😁 About Me 
-
-<div>
-  <ul>
-    <li>👩‍💻 Full Stack Developer </li>
-    <li>🏋️ Sports lover</li>
-    <li>🏖️ Passionate for travelling</li>
-  </ul>  
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-fernandogatto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-gatto)](https://www.linkedin.com/in/fernando-gatto)
 
 <img align="right" alt="Octodex" src="https://octodex.github.com/images/baracktocat.jpg" height="150">
 
-##
+### 👋 About Me 
 
-### 💡 Knowledge
-
-#### Frontend
-
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
-![TailwindCSS](https://shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-![shadcn/ui](https://shields.io/badge/-shadcn/ui-333333?style=flat&logo=shadcnui)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-  
-#### Backend and database
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-
-##
-  
-###  📞 Contact
 <div>
-  <a href="https://www.linkedin.com/in/fernandogatto17/" target="_blank"><img align="center" alt="Fernando-Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-  <a href = "mailto: fernandogatto17@gmail.com" target="_blank"><img align="center" alt="Fernando-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"></a>
+  <ul>
+    <li>🏙️ São Paulo - São Paulo, Brazil.</li>
+    <li>🖥️ Full Stack Developer.</li>
+    <li>📚 React, NextJS, NodeJS.</li>
+    <li>🎓 Bachelor in Information Systems.</li>
+    <li>🏋️ I like to practice bodybuilding.</li>
+  </ul>  
 </div>
 
 ##
-
-### 🚀 About my profile
-
-<div>
-  <a href="https://github.com/fernandogatto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandogatto&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogatto&layout=compact&langs_count=7&theme=omni"/>
-</div>
